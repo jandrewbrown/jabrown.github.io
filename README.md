@@ -2,8 +2,7 @@
 # jabrown.net 
 **jabrown.github.io**
 
-Personal, static website for freelance Tech Consulting. 
+Personal, static website John Brown. Personal Projects stored here. 
 
 john@jabrown.net
 
-*What am I doing?*
